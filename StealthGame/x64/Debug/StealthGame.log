@@ -1,0 +1,62 @@
+﻿  AIActor_Guard.cpp
+D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'AIActor_Guard.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'AIActor_Guard.cpp')
+  
+  AIBrain_FSM.cpp
+D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'AIBrain_FSM.cpp')
+  
+  AIConstructor_FSM_Stealth.cpp
+D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'AIConstructor_FSM_Stealth.cpp')
+  
+D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'AIConstructor_FSM_Stealth.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  FSM_Reasoner.cpp
+D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'FSM_Reasoner.cpp')
+  
+D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'FSM_Reasoner.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+  GameController.cpp
+D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'GameController.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'GameController.cpp')
+  
+D:\CMP304_Week1\StealthGame\GameController.cpp(107,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  StealthGame.cpp
+D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'StealthGame.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      D:\CMP304_Week1\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'StealthGame.cpp')
+  
+  Generating Code...
+  StealthGame.vcxproj -> D:\CMP304_Week1\x64\Debug\StealthGame.exe
