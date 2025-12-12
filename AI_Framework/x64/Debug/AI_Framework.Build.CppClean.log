@@ -1,30 +1,30 @@
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.pch
-d:\cmp304_week1\x64\debug\ai_framework.pdb
-d:\cmp304_week1\x64\debug\ai_framework.idb
-d:\cmp304_week1\ai_framework\x64\debug\pch.obj
-d:\cmp304_week1\ai_framework\x64\debug\aioption.obj
-d:\cmp304_week1\ai_framework\x64\debug\airandom_global.obj
-d:\cmp304_week1\ai_framework\x64\debug\aimath_global.obj
-d:\cmp304_week1\ai_framework\x64\debug\ailogger_global.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiblackboard_global.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiconsideration.obj
-d:\cmp304_week1\ai_framework\x64\debug\aibrainblackboard.obj
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.obj
-d:\cmp304_week1\ai_framework\x64\debug\aireasonerbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aioptionbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiconstructorbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiconsiderationbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aibrainblackboardbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aibrainbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiactorbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiactionbase.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiactionsubreasoner.obj
-d:\cmp304_week1\ai_framework\x64\debug\aiaction.obj
-d:\cmp304_week1\x64\debug\ai_framework.lib
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.tlog\cl.command.1.tlog
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.tlog\cl.items.tlog
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.tlog\cl.read.1.tlog
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.tlog\cl.write.1.tlog
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.tlog\lib-link.read.1.tlog
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.tlog\lib-link.write.1.tlog
-d:\cmp304_week1\ai_framework\x64\debug\ai_framework.tlog\lib.command.1.tlog
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\tbsgame\x64\debug\ai_framework.pdb
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\tbsgame\x64\debug\ai_framework.idb
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aioption.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\airandom_global.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aimath_global.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ailogger_global.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiblackboard_global.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiconsideration.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aibrainblackboard.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aireasonerbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aioptionbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiconstructorbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiconsiderationbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aibrainblackboardbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aibrainbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiactorbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiactionbase.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiactionsubreasoner.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\aiaction.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.pch
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\pch.obj
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\tbsgame\x64\debug\ai_framework.lib
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.tlog\cl.command.1.tlog
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.tlog\cl.items.tlog
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.tlog\cl.read.1.tlog
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.tlog\cl.write.1.tlog
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.tlog\lib-link.read.1.tlog
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.tlog\lib-link.write.1.tlog
+c:\dev\c++\aeye framework\cmp304\cmp304_week2\ai_framework\x64\debug\ai_framework.tlog\lib.command.1.tlog

@@ -1,32 +1,11 @@
 ﻿  pch.cpp
-D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week4\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   (compiling source file 'pch.cpp')
   
-  AIAction.cpp
-  AIActionSubReasoner.cpp
-  AIActionBase.cpp
-  AIActorBase.cpp
-  AIBrainBase.cpp
-  AIBrainBlackboardBase.cpp
-D:\CMP304_Week1\AI_Framework\AIBase\AIBrainBlackboardBase.cpp(15,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  AIConsiderationBase.cpp
-  AIConstructorBase.cpp
-  AIOptionBase.cpp
-  AIReasonerBase.cpp
   AI_Framework.cpp
-D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week4\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   (compiling source file 'AI_Framework.cpp')
   
-  AIBrainBlackboard.cpp
-  AIConsideration.cpp
   AIBlackboard_Global.cpp
-  AILogger_Global.cpp
-  AIMath_Global.cpp
-D:\CMP304_Week1\AI_Framework\Global\AIMath_Global.cpp(21,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-  AIRandom_Global.cpp
-D:\CMP304_Week1\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  (compiling source file 'Global/AIRandom_Global.cpp')
-  
-  AIOption.cpp
   Generating Code...
-  AI_Framework.vcxproj -> D:\CMP304_Week1\x64\Debug\AI_Framework.lib
+  AI_Framework.vcxproj -> C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week4\x64\Debug\AI_Framework.lib
