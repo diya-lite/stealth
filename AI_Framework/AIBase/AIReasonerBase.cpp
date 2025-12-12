@@ -1,4 +1,5 @@
 #include "AIReasonerBase.h"
+#include <iostream>
 
 void AIReasonerBase::ClearOptions()
 {
@@ -27,6 +28,13 @@ void AIReasonerBase::Sense()
 
 ActionStatus AIReasonerBase::Act()
 {
+
+	if (selectedOption == nullptr)
+	{
+		std::cout << "WARNING: Null Selected option, no action taken. " << std::endl;
+		return ActionStatus::ACTION_FAILURE;
+	}
+
 	return selectedOption->GetOptionAction()->PerformAction(*actorBlackboard);
 
 }
@@ -49,4 +57,9 @@ AIOptionBase* AIReasonerBase::GetOptionByName(std::string _name)
 
 	return nullptr;
 
+}
+
+void AIReasonerBase::AddOption(AIOptionBase* _option)
+{
+	options.push_back(_option);
 }

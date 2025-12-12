@@ -10,6 +10,7 @@ CMP304/MAT501 AI Framework (2025)
 #include <vector>
 #include "AIOptionBase.h"
 #include <string>
+#include "AIConstructorBase.h"
 
 #pragma once
 
@@ -19,9 +20,13 @@ CMP304/MAT501 AI Framework (2025)
 class AIReasonerBase
 {
 public:
+
+	enum NodeType { Decorator, Sequence, Fallback, Random, Concurrent };
+
 	virtual bool Init(std::string _id, AIBrainBlackboardBase& _context) = 0;
-	virtual void SetOptions(std::vector<AIOptionBase*> _options) = 0;
+	virtual void SetOptions(AIConstructorBase& _constructor) = 0;
 	void ClearOptions();
+	void AddOption(AIOptionBase* _opton);
 	AIOptionBase* GetOptionByName(std::string _name);
 	AIOptionBase* GetSelectedOption();
 

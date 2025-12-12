@@ -18,16 +18,18 @@ CMP304/MAT501 AI Framework (2025)
 class AIOptionBase
 {
 public:
-	virtual bool Init(std::string, AIActionBase* _action) = 0;
+	virtual bool Init(std::string, AIActionBase* _action, int _priority = 0) = 0;
 	void AddOptionConsideration(AIConsiderationBase* _consideration);
 	AIActionBase* GetOptionAction();
 	std::vector<AIConsiderationBase*> GetOptionConsiderations();
 	std::string GetOptionID();
+	int GetPriority();
 
 protected:
 	AIActionBase* optionAction;
 	std::vector<AIConsiderationBase*> optionConsiderations;
 	std::string optionID;
+	int priority;
 };
 
 

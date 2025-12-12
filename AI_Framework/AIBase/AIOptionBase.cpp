@@ -21,3 +21,8 @@ std::string AIOptionBase::GetOptionID()
 {
 	return optionID;
 }
+
+int AIOptionBase::GetPriority()
+{
+	return priority;
+}

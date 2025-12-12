@@ -61,6 +61,11 @@ float AIMath_Global::CalcDistance(Vector2f _p1, Vector2f _p2)
 }
 
 
+float AIMath_Global::CalcManhattanDistance(Vector2f _p1, Vector2f _p2)
+{
+	return abs(_p1.x - _p2.x) + abs(_p1.y - _p2.y);
+}
+
 float AIMath_Global::CalcRotation(Vector2f _p1)
 {
 	Vector2f vecD(0, 1);
@@ -75,4 +80,6 @@ AIMath_Global::Vector2f AIMath_Global::RotatePoint(Vector2f _p1, float rotation)
 
 	return (p1_rot);
 }
+
+
 

@@ -111,6 +111,7 @@
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <AdditionalIncludeDirectories>$(SolutionDir)/AI_Framework/AIBase;$(SolutionDir)/AI_Framework/Actions;$(SolutionDir)/AI_Framework/BrainComponents;$(SolutionDir)/AI_Framework/Considerations;$(SolutionDir)/AI_Framework/Global;$(SolutionDir)/AI_Framework/Options</AdditionalIncludeDirectories>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>

@@ -1,0 +1,5 @@
+﻿  AIConstructor_MCTS.cpp
+C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week4\AI_Framework\Global\AIRandom_Global.h(27,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'AIConstructor_MCTS.cpp')
+  
+  MCTS.vcxproj -> C:\Dev\C++\Aeye Framework\CMP304\CMP304_Week4\x64\Debug\MCTS.exe

@@ -1,4 +1,5 @@
 #include "AIConstructorBase.h"
+#include <iostream>
 
 void AIConstructorBase::DefineAI()
 {
@@ -17,6 +18,19 @@ std::vector<AIOptionBase*> AIConstructorBase::GetOptionVector(std::vector<std::s
 	{
 		_optionVector.push_back(options[optionID]);
 	}
+
+
+	for (int i = 0; i < _optionVector.size(); i++)
+	{
+		if (_optionVector[i] == NULL)
+		{
+			std::cout << "ERROR Matching Options " << std::endl;
+			std::cout << "Option being added: " << _selectedoptions[i] << std::endl;
+		}
+	
+	}
+
+
 
 	return _optionVector;
 }
@@ -37,3 +51,8 @@ std::vector<AIOptionBase*> AIConstructorBase::GetOptionVector()
 }
 
 
+AIOptionBase* AIConstructorBase::GetOptionByName(std::string _optionName)
+{
+
+	return(options[_optionName]);
+}

@@ -27,3 +27,13 @@ void AIActionSubReasoner::Reset()
 {
 	childReasoner->Reset();
 }
+
+void AIActionSubReasoner::SetReasonerType(AIReasonerBase::NodeType _type)
+{
+	reasonerType = _type;
+}
+
+AIReasonerBase::NodeType AIActionSubReasoner::GetReasonerType()
+{
+	return reasonerType;
+}

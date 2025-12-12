@@ -13,7 +13,7 @@ class AIOption :
     public AIOptionBase
 {
 public:
-    bool Init(std::string _id, AIActionBase* _action) override;
+    bool Init(std::string _id, AIActionBase* _action, int _priority = 0) override;
 };
 
 #endif
